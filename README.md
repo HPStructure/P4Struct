@@ -56,12 +56,14 @@ Step 4: Finally, you can start using it (The operation video is in the "videos" 
 See .\examples.
 
 ## 6. Contact information
-This is an initial version which may contain bugs.
+
+This is an initial version.
 
 Please contact us promptly if you encounter any issues.
 
 E-mail: <jihuaiwang@outlook.com>
 
-## 7. Reference
-
-《P4Struct: An integrated topology optimization software framework with a unified design workflow》
+## 7. Citation
+If you use this software or any part of its source code, please cite the following article:
+> Ji HW, Niu B, Yang R, et al. P4Struct: An integrated topology optimization software framework with a unified design workflow. SoftwareX 2026; 36: 103204.
+> DOI: <https://doi.org/10.1016/j.softx.2026.103204>
